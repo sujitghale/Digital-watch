@@ -1,1 +1,1 @@
-"# Digital-watch"  with the basics functionalities like timer and alarm.
+"# Digital-watch"  with  basic functionalities like timer and alarm.
